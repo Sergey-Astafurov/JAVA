@@ -1,0 +1,80 @@
+янв. 29, 2023 6:46:05 PM program2 main
+INFO:  Привет, будет создан массив из 8 элементов рандомным образом
+янв. 29, 2023 6:46:05 PM program2 main
+INFO: Массив рандомных чисел создан
+янв. 29, 2023 6:46:05 PM program2 main
+INFO: массив  рандомных чисел :15 1 1 19 14 27 18 23 
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: Происходит сортировка массива...
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: Число : 15 больше числа : 1
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: В переменную Буфер копируется : 15
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: Число : 1 присваивается 15
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: число : 15 меняется на 15
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: Теперь 1 число такое : 1 второе число такое :15
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: Число : 15 больше числа : 1
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: В переменную Буфер копируется : 15
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: Число : 1 присваивается 15
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: число : 15 меняется на 15
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: Теперь 1 число такое : 1 второе число такое :15
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: Число : 19 больше числа : 14
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: В переменную Буфер копируется : 19
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: Число : 14 присваивается 19
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: число : 19 меняется на 19
+янв. 29, 2023 6:46:05 PM program2 SortBuble
+INFO: Теперь 1 число такое : 14 второе число такое :19
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: Число : 27 больше числа : 18
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: В переменную Буфер копируется : 27
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: Число : 18 присваивается 27
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: число : 27 меняется на 27
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: Теперь 1 число такое : 18 второе число такое :27
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: Число : 27 больше числа : 23
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: В переменную Буфер копируется : 27
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: Число : 23 присваивается 27
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: число : 27 меняется на 27
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: Теперь 1 число такое : 23 второе число такое :27
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: Число : 15 больше числа : 14
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: В переменную Буфер копируется : 15
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: Число : 14 присваивается 15
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: число : 15 меняется на 15
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: Теперь 1 число такое : 14 второе число такое :15
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: Число : 19 больше числа : 18
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: В переменную Буфер копируется : 19
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: Число : 18 присваивается 19
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: число : 19 меняется на 19
+янв. 29, 2023 6:46:06 PM program2 SortBuble
+INFO: Теперь 1 число такое : 18 второе число такое :19
+янв. 29, 2023 6:46:06 PM program2 main
+INFO: Отсортированный массив чисел :1 1 14 15 18 19 23 27 
