@@ -1,8 +1,7 @@
 /*Реализуйте структуру телефонной книги с помощью HashMap, учитывая, что один человек
 может иметь несколько телефонов.*/
 
-import org.w3c.dom.TypeInfo;
-import java.lang.reflect.Array;
+
 import java.util.*;
 
 public class program {
